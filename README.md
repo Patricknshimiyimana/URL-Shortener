@@ -11,6 +11,7 @@ This service takes a long URL and generates a shortened version that redirects t
 
  ## OR
  - Open this link to access a hosted page that demonstrates the use of the service: [URL Shortner](https://url-shortener-patrick.netlify.app)
+ - Link: https://url-shortener-patrick.netlify.app 
 
 ## Developer
 Built by [Patrick Nshimiyimana](https://github.com/Patricknshimiyimana)
