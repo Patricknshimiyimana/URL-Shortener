@@ -10,7 +10,7 @@ This service takes a long URL and generates a shortened version that redirects t
  - Run the Command `mvn spring-boot:run` to start the server
 
  ## OR
- - Open this link to access a hosted page that demonstrates use of the service: [URL Shortner] (https://url-shortener-patrick.netlify.app)
+ - Open this link to access a hosted page that demonstrates the use of the service: [URL Shortner](https://url-shortener-patrick.netlify.app)
 
 ## Developer
 Built by [Patrick Nshimiyimana](https://github.com/Patricknshimiyimana)
